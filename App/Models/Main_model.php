@@ -1,8 +1,8 @@
 <?php
 
-    namespace app\models;
+    namespace App\Models;
 
-    use app\BD;
+    use App\BD;
     
     class Main_model
     {

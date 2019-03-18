@@ -9,10 +9,10 @@
 <body>
 	<div id='main'>
 	    <div class="users" id='u-table'>
-		<div class='row'>
-			<div class="cell table-head" >Имя</div>
-			<div class="cell table-head">Возраст</div>
-			<div class="cell table-head">Город</div>
+		<div class='row table-head'>
+			<div class="cell" >Имя</div>
+			<div class="cell">Возраст</div>
+			<div class="cell">Город</div>
 		</div>
 		{% for value in data %}
 		<div class='row'>

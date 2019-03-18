@@ -1,9 +1,9 @@
 <?php 
 
-    namespace app\controllers;
+    namespace App\Controllers;
 
-    use app\controllers\Controller;
-    use app\models\Main_model;
+    use App\Controllers\Controller;
+    use App\Models\Main_model;
 
     class Main_Controller extends Controller
     {

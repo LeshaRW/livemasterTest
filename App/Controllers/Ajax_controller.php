@@ -1,10 +1,10 @@
 <?php 
 
-namespace app\controllers;
+namespace App\controllers;
 
-use app\BD;
-use app\controllers\Controller;
-use app\models\Ajax_model;
+use App\BD;
+use App\Controllers\Controller;
+use App\Models\Ajax_model;
 
 
 class Ajax_controller extends Controller 

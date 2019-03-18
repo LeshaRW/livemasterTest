@@ -1,6 +1,6 @@
 <?php
 
-namespace app;
+namespace App;
 use PDO;
 
 class BD 
@@ -13,8 +13,8 @@ class BD
     	];
     	$localhost = '127.0.0.1';
 	    $bd   = 'test';
-	    $user = 'root';
-	    $password = '';
+	    $user = 'admin';
+	    $password = '1234';
 	    $char = 'utf8';
 	    $dsn = "mysql:host=$localhost;dbname=$bd;charset=$char";
 

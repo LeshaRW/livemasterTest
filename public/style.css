@@ -67,6 +67,9 @@ span.close{
 	height: auto;
 	min-height: 10%;
 }
+.row.table-head {
+	background-color: gray;
+}
 .cell {
 	width: 33.20%;
 	height: inherit;
@@ -74,9 +77,4 @@ span.close{
 	float: left;
 	word-wrap: break-word;
 	height: inherit;
-}
-.table-head {
-	background: gray;
-	width: 33%;
-	border: 1px solid;
 }

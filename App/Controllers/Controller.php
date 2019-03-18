@@ -1,8 +1,8 @@
 <?php 
     
-    namespace app\controllers;
+    namespace App\Controllers;
 
-    use app\view\View;
+    use App\View\View;
 
     class Controller
     {
